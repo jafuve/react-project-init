@@ -1,0 +1,1 @@
+export const verifyIntegerPositiveNumber = (number) => (!isNaN(number) && Number(number) > 0)
